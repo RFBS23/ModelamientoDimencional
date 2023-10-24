@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="FABRIZIOBS23_SQLEXPRESS.dw_PlantayAyuda"
+  DTS:DTSID="{50C1C9A5-A5C5-412F-AC0C-1129F8468DD4}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=FABRIZIOBS23\SQLEXPRESS;Initial Catalog=dw_PlantayAyuda;Integrated Security=True;Application Name=SSIS-ModelamientoDimensional-{50C1C9A5-A5C5-412F-AC0C-1129F8468DD4}FABRIZIOBS23\SQLEXPRESS.dw_PlantayAyuda;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
